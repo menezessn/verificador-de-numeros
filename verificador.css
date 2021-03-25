@@ -1,0 +1,42 @@
+body{
+background-color: rgb(126, 252, 252);
+font: normal 15pt arial;
+
+
+}
+
+header{
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: white;
+text-align: center;
+text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.466);
+
+
+}
+
+section{
+background-color: white;
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.493);
+
+
+}
+
+footer{
+
+color: white;
+text-align: center;
+font-style: italic;
+margin-top: 15px;
+text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.466);
+
+}
+
+select#flista{
+
+    width: 170px;
+}
